@@ -1,0 +1,9 @@
+a[title] {
+    border: solid rgb(245, 5, 164);
+}
+a[href]:link {
+    content: "try me";
+}
+a[href^="https"]:hover {
+    border: solid rgb(30, 255, 30);
+}
